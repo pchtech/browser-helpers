@@ -4,6 +4,7 @@
 // @version      1.0.5
 // @match        https://suppliers.reloquest.com/option/new/request/*
 // @match        https://suppliers.reloquest.com/property/new*
+// @match        https://suppliers.reloquest.com/welcomeletter/*
 // @grant        GM_xmlhttpRequest
 // @connect      ai.corporates.com
 // @updateURL    https://raw.githubusercontent.com/pchtech/browser-helpers/main/form-helper-1.meta.js
